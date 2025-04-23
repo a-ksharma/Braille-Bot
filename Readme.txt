@@ -1,9 +1,9 @@
-								---Braille Bot---
+							---Braille Bot---
 
 Problem Statement:
 Limitations in Access to Literacy for Visually Impaired Individuals.
 Specific Pain Points:
-1. Lack of access to information: Visually impaired individuals face difficulties in accessing written materials, including books, articles, 				  and online content.
+1. Lack of access to information: Visually impaired individuals face difficulties in accessing written materials, including books, articles, and online content.
 2. Limited employment opportunities: The inability to read and write can limit job prospects and career advancement opportunities.
 3. Social isolation: Limited access to written communication and social interactions can lead to feelings of loneliness and disconnection.
 
