@@ -50,8 +50,8 @@ HOW  DOES  IT  WORK ?
 		+ The converted Braille text is sent to the servo motor.
 		+ Servo motor moves to simulate raised dots, enabling tactile feedback.
 
-5. Servo Motor Control (Motor Driver)
-	* Component: Motor Driver
+5. Servo Motor Control (Servo Driver)
+	* Component: Adafruit 16-Channel 12-bit PWM/Servo Driver
 	* Function: Regulates and synchronizes movement of servo motors.
 	* Workflow:
 		+ The motor driver receives signals from the ESP32 CAM to control Braille character sequence.
