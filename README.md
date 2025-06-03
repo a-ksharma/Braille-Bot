@@ -1,16 +1,5 @@
 ![Braille Bot](Images/Braille_Bot.png)
 
-
-
-
-
-
-
-
-
-
-
-
 This repository contains the code and resources for developing Braille Bot aimed at assisting visually impaired individuals to read through Braille Script in real time. The project leverages computer vision and AI to make the world more accessible.
 ## Table Of Content
 - [Project Overview](#project-overview)
@@ -59,6 +48,7 @@ python main.py
 - Processing Unit: ESP8266
 ![ESP8266](Images/esp8266.jpg)
 - Camera Module: ESP32-Cam
+  
 ![ESP32-CAM](Images/ESP32-CAM.jpg)
 - Braille Generation: 6 SG90 Servo Motors
 ![Servo Motor](Images/Servo.jpg)
