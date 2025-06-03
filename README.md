@@ -6,6 +6,7 @@ This repository contains the code and resources for developing Braille Bot aimed
 - [Features](#features)
 - [Installation](#installation)
 - [Hardware Required](#hardware-required)
+- [Project Images](#project-images)
 - [License](#license)
 ## Project Overview
 A robotic bot that captures text, processes images, and converts to Braille using machine learning algorithms. The bot then simulates the dots, providing tactile feedback for visually impaired individuals, enabling independent reading experience.
@@ -56,5 +57,11 @@ python main.py
 ![Servo Motor Driver](Images/Servo-Driver.jpg)
 - Power Suply: AC to Dc Adapter(12V - 1A) and L298N Motor Driver
 ![Motor Driver](Images/motor-driver.jpg)
+
+## Project Images
+- Circuit: All components are properly connected and assembled into a complete, functional system.
+![Circuit](Images/Circuit.jpg)
+- Final Project: Overview of the bot’s final form, as depicted in the image below.
+![Frame](Images/Frame.jpg)
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
