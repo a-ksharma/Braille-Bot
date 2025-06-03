@@ -1,4 +1,17 @@
-![Braille Bot](images/Braille_Bot.png)This repository contains the code and resources for developing Braille Bot aimed at assisting visually impaired individuals to read through Braille Script in real time. The project leverages computer vision and AI to make the world more accessible.
+![Braille Bot](Images/Braille_Bot.png)
+
+
+
+
+
+
+
+
+
+
+
+
+This repository contains the code and resources for developing Braille Bot aimed at assisting visually impaired individuals to read through Braille Script in real time. The project leverages computer vision and AI to make the world more accessible.
 ## Table Of Content
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -44,14 +57,14 @@ python main.py
 ```
 ## Hardware Required
 - Processing Unit: ESP8266
-![ESP8266](images/esp8266.jpg)
+![ESP8266](Images/esp8266.jpg)
 - Camera Module: ESP32-Cam
-![ESP32-CAM](images/ESP32-CAM.jpg)
+![ESP32-CAM](Images/ESP32-CAM.jpg)
 - Braille Generation: 6 SG90 Servo Motors
-![Servo Motor](images/Servo.jpg)
+![Servo Motor](Images/Servo.jpg)
 - Servo Motor Driver: Adafruit PCA9685 16-Channel Servo Driver
-![Servo Motor Driver](images/Servo-Driver.jpg)
+![Servo Motor Driver](Images/Servo-Driver.jpg)
 - Power Suply: AC to Dc Adapter(12V - 1A) and L298N Motor Driver
-![Motor Driver](images/motor-driver.jpg)
+![Motor Driver](Images/motor-driver.jpg)
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
