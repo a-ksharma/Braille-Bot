@@ -46,9 +46,9 @@ python main.py
 - Processing Unit: ESP8266
 ![ESP8266](images/esp8266.jpg)
 - Camera Module: ESP32-Cam
-![ESP32-CAM](images/ESP32-CAM.webp)
+![ESP32-CAM](images/ESP32-CAM.jpg)
 - Braille Generation: 6 SG90 Servo Motors
-![Servo Motor](images/Servo.webp)
+![Servo Motor](images/Servo.jpg)
 - Servo Motor Driver: Adafruit PCA9685 16-Channel Servo Driver
 ![Servo Motor Driver](images/Servo-Driver.jpg)
 - Power Suply: AC to Dc Adapter(12V - 1A) and L298N Motor Driver
